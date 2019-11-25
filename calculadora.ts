@@ -7,3 +7,8 @@ function division(a, b){
 
 let d =  division(2, 2);
 console.log(d);
+
+//suma
+//resta
+//multiplicacion
+//division
