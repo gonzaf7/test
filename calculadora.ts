@@ -26,5 +26,3 @@ console.log(d);
 
 // suma
 // resta
-// multiplicacion
-// division
