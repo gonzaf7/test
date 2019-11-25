@@ -1,4 +1,4 @@
-//Rama Ruben
+// Rama Ruben
 
 function division(a, b){
     let res = a / b;
@@ -8,7 +8,7 @@ function division(a, b){
 let d =  division(2, 2);
 console.log(d);
 
-//suma
-//resta
-//multiplicacion
-//division
+// suma
+// resta
+// multiplicacion
+// division
