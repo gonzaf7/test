@@ -8,6 +8,14 @@ function suma(a, b){
 let s =  suma(2, 2);
 console.log(s);
 
+function resta(a, b){
+    let res = a / b;
+    return res;
+}
+
+let r =  resta(2, 2);
+console.log(r);
+
 function division(a, b){
     let res = a / b;
     return res;
